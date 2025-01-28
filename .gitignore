@@ -1,0 +1,7 @@
+*.o
+*.out
+*.zip
+mfpj/local_project_ballreflection/node_modules/*
+mfpj/local_project_ballreflection/node_modules/*.json
+mfpj/local_project_ballreflection/p5.js
+mfpj/local_project_ballreflection/p5.sound.min.js
